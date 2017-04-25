@@ -1,0 +1,96 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family:consolas;
+  background-color:peru;
+}
+
+.primary{
+  width:auto;
+  height: auto;
+  background-color:darkslateblue;
+  border-radius: 0px;
+  color: white;
+  padding: 5px 15px;
+  font-weight:bold;
+  font-family:consolas;
+  border-color: darkslateblue;
+  margin-left: 5px;
+  border-radius: 3px;
+}
+
+.secondary{
+  width:auto;
+  height: auto;
+  background-color:darkred;
+  color: white;
+  padding: 5px 15px;
+  font-weight: bold;
+  font-family:consolas;
+  border-color: darkred;
+  margin-left: 5px;
+  border-radius: 3px;
+}
+
+.saving{
+  width:auto;
+  height: auto;
+  background-color:green;
+  color: white;
+  padding: 5px 15px;
+  font-weight:bold;
+  font-family:consolas;
+  border-color: green;
+  margin-left: 5px;
+  border-radius: 3px;
+}
+
+.inner{
+  width:350px;;
+  height:86px;
+  font-family: consolas;
+  font-weight: bold;
+  margin-left: 5px;
+  margin-top: 5px;
+  font-size: 1.05em;
+}
+
+.textareaa{
+  width:384px;;
+  height:76px;
+  font-family: consolas;
+  font-weight: bold;
+  margin-left: 5px;
+  margin-top: 5px;
+  font-size: 1.05em;
+  border-radius: 3px;
+}
+
+.outer{
+  width:400px;
+  height:125px;
+  background-color:lightgrey;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  border: 1px solid black;
+  border-radius: 3px;
+}
+
+.heading{
+  margin-left: 10px;
+  text-decoration:underline;
+}
+
+.adding{
+  width:auto;
+  height: auto;
+  background-color:steelblue;
+  color: white;
+  padding: 5px 15px;
+  font-weight: bold;
+  font-family:consolas;
+  border-color:steelblue;
+  margin-left: 11px;
+  border-radius: 3px;
+}
